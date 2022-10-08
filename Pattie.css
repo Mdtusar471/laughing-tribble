@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+  padding:0;
+  background-color:#9797FF;
+}
+.one{
+  margin-bottom: 10px;
+  background-color: #12f;
+  height:30px;
+  color:#ffffff;
+  text-align: center;
+}
+.dol{
+  margin-bottom: 10px;
+  background-color: #12a;
+  height:30px;
+  color:#ffffff;
+  overflow: hidden;
+}
+button{
+  color:red;
+  border-radius: 30px;
+  background-image: #fff093;
+  margin-left: 250px;
+}
+.fateha{
+text-align: center;
+}
+p{
+  text-align: center;
+  font-size:110%;
+}
+table{
+  background-color: ;
+  border-radius :10px;
+  border: 70px solid;
+  border-image-source: url("86.png");
+  border-image-slice:400 ;
+  margin:10px;
+  overflow: hidden;
+}
+.one1{
+  height:20px;
+  text-align: center;
+  border:1px solid #2d2;
+  width: 100%;
+  border-radius:10px;
+}
+/*=======td img start=====*/
+.img{
+  background-image: url("2.png");
+border-radius:7px;
+}
+/*============td img==end===*/
+.audio{
+  background-color: #ffffff;
+  width:70px;
+  height: 20px;
+}
+.akbor{
+  width: 20px;
+  height: 100%;
+  border-radius:100px;
+  background-image: url("2.png");
+}
+#allahhu{
+  background-image: url("2.png");
+  background-size: cover;
+}
+.kalu{
+  height: 50px;
+  width: 50;
+}
+.sura1{
+  padding:0;
+}
+div{
+  background-color: #c2c2;
+  height: 60px;
+}
